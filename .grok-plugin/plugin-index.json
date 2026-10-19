@@ -68,8 +68,8 @@
       }
     },
     "browser-use": {
-      "sha": "4749bcbfe456e5384b98281a8a66119352197f59",
-      "version": "0.1.0",
+      "sha": "264716fe9f4e24557e20d27ec6debef34d7387f1",
+      "version": "0.1.1",
       "components": {
         "mcpServers": [
           {
