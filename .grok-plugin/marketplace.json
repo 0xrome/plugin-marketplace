@@ -300,7 +300,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/browser-use/plugins.git",
-        "sha": "4749bcbfe456e5384b98281a8a66119352197f59",
+        "sha": "264716fe9f4e24557e20d27ec6debef34d7387f1",
         "path": "grok"
       },
       "homepage": "https://browser-use.com",
