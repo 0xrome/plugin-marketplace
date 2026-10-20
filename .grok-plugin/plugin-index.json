@@ -379,8 +379,8 @@
       }
     },
     "figma": {
-      "sha": "f2789420e7e8b4e2465dfeb1e12e1fc6a31397e5",
-      "version": "2.2.157",
+      "sha": "7047cb45d6227bb42bd9ad6d35651043c0508179",
+      "version": "2.2.163",
       "components": {
         "mcpServers": [
           {
