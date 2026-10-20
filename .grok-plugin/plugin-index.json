@@ -821,8 +821,8 @@
       }
     },
     "pstack": {
-      "sha": "d457567332aa6989e753ea289f30ea2bfbc80bc0",
-      "version": "0.15.28",
+      "sha": "88d47514b82e7c44f00f2b2a72ff6dd12158038c",
+      "version": "0.15.29",
       "components": {
         "agents": [
           {
@@ -1025,7 +1025,7 @@
           },
           {
             "name": "sharpen",
-            "description": "Sharpen a task before starting: the expert approach, what the user is really after, and the right level of specificatio…"
+            "description": "Make a task deeper, not bigger, then rewrite the prompt. Use for /sharpen."
           },
           {
             "name": "show-me-your-work",
