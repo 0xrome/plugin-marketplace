@@ -1741,8 +1741,8 @@
       }
     },
     "wix": {
-      "sha": "39857c32742803d7e591c3a1ef66a2b50a6b9cd6",
-      "version": "1.33.0",
+      "sha": "efb531df16d945cd095c3a4fcccefd2074341a7e",
+      "version": "1.33.1",
       "components": {
         "mcpServers": [
           {
@@ -1772,6 +1772,10 @@
             "description": "Look up the Wix API/SDK documentation to confirm an exact endpoint, HTTP method, request/response shape, field, enum, o…"
           },
           {
+            "name": "wix-export",
+            "description": "Export a Wix Studio 2 site, or create a new one, with the origami CLI, each in its own local folder, then continue stra…"
+          },
+          {
             "name": "wix-headless",
             "description": "Connect Wix business services (Stores, Bookings, CMS, Blog, Events, Forms, and more) to a Wix Headless frontend — infer…"
           },
@@ -1786,6 +1790,10 @@
           {
             "name": "wix-headless-templates",
             "description": "The shipped, verified code behind Wix Headless sites, one folder per Wix Business Solution: an online store, bookings,…"
+          },
+          {
+            "name": "wix-import",
+            "description": "Import local site code into an existing or new Wix Studio 2 site with the origami CLI. Works from an exported Origami s…"
           },
           {
             "name": "wix-manage",
