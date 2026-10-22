@@ -821,8 +821,8 @@
       }
     },
     "pstack": {
-      "sha": "88d47514b82e7c44f00f2b2a72ff6dd12158038c",
-      "version": "0.15.29",
+      "sha": "eb4db2b55b2b7dec3d9282754cddf0a56bf4ff10",
+      "version": "0.15.30",
       "components": {
         "agents": [
           {
@@ -1032,8 +1032,8 @@
             "description": "Keep a reviewable decision trail for long-running or unattended work: a TSV log with one row per decision (what, why, e…"
           },
           {
-            "name": "swarm",
-            "description": "Fan out N parallel workers, drain them, and return one report. Use for /swarm, 'swarm this', or parallel coverage, race…"
+            "name": "statechart",
+            "description": "Draw what an app's user sees as a Mermaid statechart from a TLA+ model. States are gray if they work, red if still wron…"
           }
         ]
       }
